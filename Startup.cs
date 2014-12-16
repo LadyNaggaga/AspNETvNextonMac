@@ -15,6 +15,7 @@ namespace KWebStartup
                 services.AddMvc();
             });
 
+//Hello being dangerous and I like it!!!
             // Add MVC to the request pipeline
             app.UseMvc(routes =>
             {
