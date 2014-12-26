@@ -38,7 +38,6 @@ In order to run  an ASP.NET vNext on a Mac and Linux environment you need Mono. 
 Homebrew enables you install all the stuff you can’t directly install in terminal out of the box.  Copy + Paste the code below
 
 ` ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-<a href="http://marianaggaga.azurewebsites.net/wp-content/uploads/2014/11/InstallingHomebrew.png"><img width="567" height="298" class="alignnone size-full wp-image-12191" alt="InstallingHomebrew" src="http://marianaggaga.azurewebsites.net/wp-content/uploads/2014/11/InstallingHomebrew.png"></a>`
 
 **Install all the extra mono & Asp.Net vNext dependencies**
 
